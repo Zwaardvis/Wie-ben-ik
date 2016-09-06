@@ -1,0 +1,28 @@
+body
+{
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-image:url(img/indox.jpg);
+	font-family:verdana;
+	font-size:14px;
+	margin-left:20px;
+	margin-right:20px;
+	margin:0px;
+}
+
+div.content
+{
+margin-left:auto;
+margin-right:auto;
+width:600px;
+color:Red;
+background-color:rgba(204, 255, 204, 0.4);
+
+
+}
+
+.imag
+{
+	width:100%;
+}
